@@ -3,7 +3,7 @@
 /*******************************/
 body {
     color: #666666;
-    background: #030f27 ;
+    background: #ffffff ;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
@@ -18,7 +18,7 @@ h6 {
 }
 
 a {
-    color: #666666;
+    color: #ffffff;
     transition: .3s;
 }
 
@@ -90,7 +90,7 @@ a:focus {
 .top-bar .logo h1 {
     margin: 0;
     color: #ffffff;
-    font-size: 60px;
+    font-size: 40px;
     line-height: 60px;
     font-weight: 700;
 }
@@ -696,17 +696,17 @@ a:focus {
 }
 
 .fact .fact-left {
-    color: #fdbe33;
+    color: #ffffff;
     background: #030f27;
 }
 
 .fact .fact-right {
-    color: #030f27;
-    background: #fdbe33;
+    color: #ffffff;
+    background: #ec0000;
 }
 
 .fact .fact-left h2 {
-    color: #fdbe33;
+    color: #ffffff;
 }
 
 
@@ -775,7 +775,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #fdbe33;
+    color: #ec0000;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -793,7 +793,7 @@ a:focus {
     line-height: 60px;
     font-weight: 100;
     color: #030f27;
-    background: #fdbe33;
+    background: #ec0000;
     border-radius: 0;
     transition: .3s;
 }
@@ -1043,7 +1043,7 @@ a:focus {
     height: 100%;
     top: 0;
     left: calc(50% - .5px);
-    background: #fdbe33;
+    background: #030f27;
 }
 
 .faqs #accordion-1 {
@@ -1104,7 +1104,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #fdbe33;
+    color: #ec0000;
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1137,7 +1137,7 @@ a:focus {
     margin: 45px 0;
     padding: 90px 0;
     text-align: center;
-    background: linear-gradient(rgba(3, 15, 39, .9), rgba(3, 15, 39, .9)), url(../img/carousel-1.jpg);
+    background: linear-gradient(rgba(255, 0, 0, 0.9), rgba(49, 75, 161, 0.9)), url(../img/carousel-1.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -1262,7 +1262,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 18px;
     font-weight: 700;
-    color: #fdbe33;
+    color: #ec0000;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1280,7 +1280,7 @@ a:focus {
     line-height: 60px;
     font-weight: 100;
     color: #030f27;
-    background: #fdbe33;
+    background: #ec0000;
     border-radius: 0;
     transition: .3s;
 }
