@@ -3,7 +3,7 @@
 /*******************************/
 body {
     color: #666666;
-    background: #dddddd;
+    background: #030f27 ;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
@@ -45,7 +45,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #fdbe33;
+    background: #ec0000;
     color: #121518;
     width: 44px;
     height: 44px;
@@ -78,7 +78,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 90px;
-    background: #fdbe33;
+    background: #ec0000;
 }
 
 .top-bar .logo {
@@ -89,7 +89,7 @@ a:focus {
 
 .top-bar .logo h1 {
     margin: 0;
-    color: #030f27;
+    color: #ffffff;
     font-size: 60px;
     line-height: 60px;
     font-weight: 700;
@@ -115,7 +115,7 @@ a:focus {
 
 .top-bar .top-bar-icon [class^="flaticon-"]::before {
     margin: 0;
-    color: #030f27;
+    color: #ffffff;
     font-size: 40px;
 }
 
@@ -125,14 +125,14 @@ a:focus {
 
 .top-bar .top-bar-text h3 {
     margin: 0 0 5px 0;
-    color: #030f27;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 400;
 }
 
 .top-bar .top-bar-text p {
     margin: 0;
-    color: #030f27;
+    color: #ffffff;
     font-size: 13px;
     font-weight: 400;
 }
@@ -155,7 +155,7 @@ a:focus {
 /**********************************/
 .nav-bar {
     position: relative;
-    background: #fdbe33;
+    background: #ec0000;
     transition: .3s;
 }
 
@@ -472,7 +472,7 @@ a:focus {
 }
 
 .section-header p {
-    color: #fdbe33;
+    color: #ec0000;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
@@ -505,8 +505,8 @@ a:focus {
 }
     
 .feature .col-md-12:nth-child(2n) {
-    color: #030f27;
-    background: #fdbe33;
+    color: #ffffff;
+    background: #ec0000;
 }
 
 .feature .feature-item {
@@ -550,13 +550,13 @@ a:focus {
 }
 
 .feature .col-md-12:nth-child(2n) .feature-icon::after {
-    background: #fdbe33;
+    background: #ec0000;
 }
 
 .feature .feature-icon [class^="flaticon-"]::before {
     position: relative;
     margin: 0;
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 60px;
     line-height: 60px;
     z-index: 3;
@@ -568,14 +568,14 @@ a:focus {
 
 .feature .feature-text h3 {
     margin: 0 0 10px 0;
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 25px;
     font-weight: 600;
 }
 
 .feature .feature-text p {
     margin: 0;
-    color: #fdbe33;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 400;
 }
@@ -583,7 +583,7 @@ a:focus {
 .feature .col-md-12:nth-child(2n) [class^="flaticon-"]::before,
 .feature .col-md-12:nth-child(2n) h3,
 .feature .col-md-12:nth-child(2n) p {
-    color: #030f27;
+    color: #ffffff;
 }
 
 
@@ -622,9 +622,9 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #030f27;
+    color: #ffffff;
     border-radius: 0;
-    background: #fdbe33;
+    background: #ec0000;
     transition: .3s;
 }
 
@@ -2075,7 +2075,7 @@ a:focus {
     padding-bottom: 10px;
     font-size: 20px;
     font-weight: 600;
-    color: #fdbe33;
+    color: #e20000;
 }
 
 .footer h2::after {
@@ -2085,7 +2085,7 @@ a:focus {
     height: 2px;
     left: 0;
     bottom: 0;
-    background: #fdbe33;
+    background: #ffffff;
 }
 
 .footer .footer-link a {
@@ -2217,7 +2217,13 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #fdbe33;
+    color: #ff0000;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+#BSR {
+    color: #ff0000;
     font-weight: 500;
     letter-spacing: 1px;
 }
